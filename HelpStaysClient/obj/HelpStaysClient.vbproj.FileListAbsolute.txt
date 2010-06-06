@@ -1,0 +1,13 @@
+C:\Documents and Settings\RHoK\My Documents\Visual Studio 2005\Projects\HelpStaysClient\HelpStaysClient\bin\Debug\HelpStaysClient.exe
+C:\Documents and Settings\RHoK\My Documents\Visual Studio 2005\Projects\HelpStaysClient\HelpStaysClient\bin\Debug\HelpStaysClient.pdb
+C:\Documents and Settings\RHoK\My Documents\Visual Studio 2005\Projects\HelpStaysClient\HelpStaysClient\bin\Debug\HelpStaysClient.xml
+C:\Documents and Settings\RHoK\My Documents\Visual Studio 2005\Projects\HelpStaysClient\HelpStaysClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\RHoK\My Documents\Visual Studio 2005\Projects\HelpStaysClient\HelpStaysClient\obj\Debug\HelpStaysClient.FrmMain.resources
+C:\Documents and Settings\RHoK\My Documents\Visual Studio 2005\Projects\HelpStaysClient\HelpStaysClient\obj\Debug\HelpStaysClient.Resources.resources
+C:\Documents and Settings\RHoK\My Documents\Visual Studio 2005\Projects\HelpStaysClient\HelpStaysClient\obj\Debug\HelpStaysClient.vbproj.GenerateResource.Cache
+C:\Documents and Settings\RHoK\My Documents\Visual Studio 2005\Projects\HelpStaysClient\HelpStaysClient\obj\Debug\HelpStaysClient.exe
+C:\Documents and Settings\RHoK\My Documents\Visual Studio 2005\Projects\HelpStaysClient\HelpStaysClient\obj\Debug\HelpStaysClient.xml
+C:\Documents and Settings\RHoK\My Documents\Visual Studio 2005\Projects\HelpStaysClient\HelpStaysClient\obj\Debug\HelpStaysClient.pdb
+C:\Documents and Settings\RHoK\My Documents\Visual Studio 2005\Projects\HelpStaysClient\HelpStaysClient\obj\Debug\HelpStaysClient.FrmFilter.resources
+C:\Documents and Settings\RHoK\My Documents\Visual Studio 2005\Projects\HelpStaysClient\HelpStaysClient\obj\Debug\HelpStaysClient.FrmReserve.resources
+C:\Documents and Settings\RHoK\My Documents\Visual Studio 2005\Projects\HelpStaysClient\HelpStaysClient\obj\Debug\HelpStaysClient.FrmLogin.resources
