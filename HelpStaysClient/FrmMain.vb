@@ -63,6 +63,8 @@ Public Class FrmMain
                 filterString &= "start_date=" & bedFilter.startDate.ToString("yyyy-MM-dd") & "&end_date=" & bedFilter.endDate.ToString("yyyy-MM-dd") & "&"
             ElseIf bedFilter.dateFilter = DATE_FILTER_DAY Then
                 filterString &= "single_day=" & bedFilter.startDate.ToString("yyyy-MM-dd") & "&"
+            Else
+                filterString &= "single_day=" & Date.Now.ToString("yyyy-MM-dd") & "&"
             End If
             If Not IsNothing(bedFilter.beds) AndAlso bedFilter.beds <> 0 Then
                 filterString &= "beds=" & bedFilter.beds.ToString() & "&"
